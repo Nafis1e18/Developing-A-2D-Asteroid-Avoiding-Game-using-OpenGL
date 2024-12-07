@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1733340560 source:c:\users\mn\desktop\habijabi\game.c
+	"game.h"
+
+1733340482 c:\users\mn\desktop\habijabi\game.h
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+
+1733435661 source:c:\users\mn\desktop\habijabi\main.c
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+
